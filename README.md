@@ -1,4 +1,12 @@
-### Hi there 👋
+### 事故紹介のページ
+
+## Langs, Stars
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakkadaikon&hide=html)
+![hakkadaikon's github stats](https://github-readme-stats.vercel.app/api?username=Hakkadaikon&show_icons=true&count_private=true&line_height=40)  
+
+## [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)  
+![trophy](https://github-profile-trophy.vercel.app/?username=hakkadaikon&theme=onedark)  
+
 
 <!--
 **Hakkadaikon/hakkadaikon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
