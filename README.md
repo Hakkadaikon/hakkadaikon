@@ -6,10 +6,10 @@
 hakkadaikon(発火大根 eng. radish on fire)  
   
 ### Jobs  
-Network infrastructure engineer(with programmer)
+~~Comedian~~ Network infrastructure engineer(with programmer)
   
 ### Langs  
-C, C++, C#, PHP, javascript, python, Go(ちょびっとだけ), vim script(ちょびっとだけ)  
+C, C++, C#, PHP, javascript, python, Go(little bit), vim script(little bit)  
   
 ### Infra  
 Docker, VMWare, KVM, AWS(little bit), on-premiss related knowledge(IPMI, NIC...)  
