@@ -1,5 +1,5 @@
 # 事故紹介のページ👋  
-
+  
 ## 誰だてめぇ！  
 
 ### 名前  
@@ -12,11 +12,15 @@
 C, C++, C#, PHP, javascript, python, Go(ちょびっとだけ), vim script(ちょびっとだけ)  
   
 ### インフラ  
-Docker, VMWare, KVM, AWS(ちょびっとだけ)  
+Docker, VMWare, KVM, AWS(ちょびっとだけ), 物理サーバー周りの知識ちょっとあり(IPMI, NICなど)  
   
 ### 設計  
-GoF, DDD, クリーンアーキテクチャとかの話するのがしゅき  
+GoF, DDD, クリーンアーキテクチャとか、設計の話するのがしゅき  
   
+### エディタ / IDE  
+* vim, Neovim, VSCode(少々), Visual Studio 2010,2012,2013,2015,2017,2019,2022,2022(Preview)  
+* 個人開発はNeovimかVSの最新Verが多い  
+
 ## Langs / Stars🌟
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakkadaikon&hide=html)
@@ -39,7 +43,12 @@ GoF, DDD, クリーンアーキテクチャとかの話するのがしゅき
 * [Hello Nostr! Yo Bluesky! 分散SNSの最前線](https://techbookfest.org/product/6quLEm85cpd4TMJR17xnVF?productVariantID=kgmgxRsKgbVruvRd2zV1sp) 共著で出版  
   * "やる夫bot作ってみた", "継続的な勉強会開催には何が必要か語ってみた" の2記事を寄稿  
 
-
+## SNS  
+  
+* [Nostr](https://nostter.vercel.app/hakkadaikon@iris.to)  
+* [X(Twitter)](https://twitter.com/hakkadaikon)  
+* [Bluesky](https://bsky.app/profile/hakkadaikon.bsky.social)  
+  
 <!--
 **Hakkadaikon/hakkadaikon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
