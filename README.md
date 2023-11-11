@@ -48,6 +48,7 @@ GoF, DDD, クリーンアーキテクチャとか、設計の話するのがし�
 * [Nostr](https://nostter.vercel.app/hakkadaikon@iris.to)  
 * [X(Twitter)](https://twitter.com/hakkadaikon)  
 * [Bluesky](https://bsky.app/profile/hakkadaikon.bsky.social)  
+* [pixiv](https://www.pixiv.net/users/1600322)  
   
 <!--
 **Hakkadaikon/hakkadaikon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
