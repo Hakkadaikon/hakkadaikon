@@ -1,24 +1,24 @@
 # Introduce myself(事故紹介🌟🚙)👋  
   
-## Who you are?  
+## Who you are❓  
 
 ### Name  
 hakkadaikon(発火大根 eng. radish on fire)  
   
-### Jobs  
+### Jobs🔭  
 ~~Comedian~~ Network infrastructure engineer(with programmer)
   
 ### Langs  
 C, C++, C#, PHP, javascript, python, Go(little bit), vim script(little bit)  
   
-### Infra  
+### Infra🔧  
 Docker, VMWare, KVM, AWS(little bit), on-premiss related knowledge(IPMI, NIC...)  
   
-### Architecture  
+### Architecture🏠  
 I like talking about GoF, DDD, Clean Architecture  
   
-### Editor / IDE  
-* vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022,2022(Preview)  
+### Editor / IDE📝  
+vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022,2022(Preview)  
 
 ## Langs / Stars🌟
 
@@ -29,7 +29,7 @@ I like talking about GoF, DDD, Clean Architecture
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hakkadaikon&theme=onedark)  
 
-## Speak on Stage  
+## Speak on Stage👨  
   
 * [C#読書会   隔週開催   Connpass自動化ツールモブプログラミング会](https://cs-reading.connpass.com) 定期参加  
 * [四谷ラボ   2023/8/4   Nostr勉強会 #3](https://428lab.connpass.com/event/290514/) 司会, LT  
@@ -37,12 +37,12 @@ I like talking about GoF, DDD, Clean Architecture
 * [四谷ラボ   2023/12/8  新時代の分散SNS勉強会](https://428lab.connpass.com/event/300313/) 運営  
 * [ゴリラ.vim 2023/12/13 ゴリラ.vim #29 ~ 年末なんでもLT ~](https://428lab.connpass.com/event/301953/) LT予定  
   
-## Books  
+## Books📚  
   
 * [Hello Nostr! Yo Bluesky! 分散SNSの最前線](https://techbookfest.org/product/6quLEm85cpd4TMJR17xnVF?productVariantID=kgmgxRsKgbVruvRd2zV1sp) 共著で出版  
   * "やる夫bot作ってみた", "継続的な勉強会開催には何が必要か語ってみた" の2記事を寄稿  
 
-## SNS  
+## SNS📱  
   
 * [Nostr](https://nostter.vercel.app/hakkadaikon@iris.to)  
 * [X(Twitter)](https://twitter.com/hakkadaikon)  
