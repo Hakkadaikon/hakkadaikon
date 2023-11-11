@@ -49,6 +49,11 @@ vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022,2022(Previ
 * [Bluesky](https://bsky.app/profile/hakkadaikon.bsky.social)  
 * [pixiv](https://www.pixiv.net/users/1600322)  
   
+## Service⚡
+  
+* [yaruobot](https://nostter.vercel.app/yaruobot@iris.to)
+  - AI Chatbot running on Nostr.
+
 <!--
 **Hakkadaikon/hakkadaikon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
