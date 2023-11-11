@@ -1,12 +1,21 @@
-### 事故紹介のページ👋  
+# 事故紹介のページ👋  
 
 ## 誰だてめぇ！  
 
-* 名前     : 発火大根(eng. radish on fire)  
-* 職業     : ネットワークインフラエンジニア(with プログラマ)  
-* 言語     : C, C++, C#, PHP, javascript, python, Go(ちょびっとだけ), vim script(ちょびっとだけ)  
-* インフラ : Docker, VMWare, KVM, AWS(ちょびっとだけ)  
-* 設計     : GoF, DDD, クリーンアーキテクチャとかの話するのがしゅき  
+### 名前  
+発火大根(eng. radish on fire)  
+  
+### 職業  
+ネットワークインフラエンジニア(with プログラマ)  
+  
+### 言語  
+C, C++, C#, PHP, javascript, python, Go(ちょびっとだけ), vim script(ちょびっとだけ)  
+  
+### インフラ  
+Docker, VMWare, KVM, AWS(ちょびっとだけ)  
+  
+### 設計  
+GoF, DDD, クリーンアーキテクチャとかの話するのがしゅき  
   
 ## Langs / Stars🌟
 
@@ -28,7 +37,7 @@
 ## 書籍  
   
 * [Hello Nostr! Yo Bluesky! 分散SNSの最前線](https://techbookfest.org/product/6quLEm85cpd4TMJR17xnVF?productVariantID=kgmgxRsKgbVruvRd2zV1sp) 共著で出版  
-  * やる夫bot作ってみた, 継続的な勉強会開催には何が必要か語ってみた の2記事を寄稿  
+  * "やる夫bot作ってみた", "継続的な勉強会開催には何が必要か語ってみた" の2記事を寄稿  
 
 
 <!--
