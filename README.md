@@ -40,7 +40,7 @@ vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022,2022(Previ
 * [四谷ラボ   2023/8/4   Nostr勉強会 #3](https://428lab.connpass.com/event/290514/) 司会, LT  
 * [四谷ラボ   2023/9/2   Bluesky勉強会 #2](https://428lab.connpass.com/event/293255/) 主催, 司会, LT  
 * [四谷ラボ   2023/12/8  新時代の分散SNS勉強会](https://428lab.connpass.com/event/300313/) 運営  
-* [ゴリラ.vim 2023/12/13 ゴリラ.vim #29 ~ 年末なんでもLT ~](https://428lab.connpass.com/event/301953/) LT予定  
+* [ゴリラ.vim 2023/12/13 ゴリラ.vim #29 ~ 年末なんでもLT ~](https://428lab.connpass.com/event/301953/) LT  
   
 ## Books📚  
   
