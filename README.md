@@ -1,4 +1,4 @@
-# Introduce myself(事故紹介🌟🚙)👋  
+# Introduce myself  
   
 ## Who you are❓  
 
@@ -6,7 +6,7 @@
 hakkadaikon(発火大根 eng. radish on fire)  
   
 ### Jobs🔭  
-~~Comedian~~ Network infrastructure engineer(with programmer)
+Programmer, Network infrastructure engineer  
   
 ### Langs  
 C, C++, C#, PHP, javascript, python, Go(little bit), vim script(little bit)  
@@ -29,30 +29,33 @@ vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022,2022(Previ
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hakkadaikon&theme=onedark)  
 
-## Service⚡
-  
-* [yaruobot](https://nostter.vercel.app/yaruobot@iris.to)
-  - AI Chatbot running on Nostr.
-
 ## Speak on Stage👨  
   
-* [C#読書会   隔週開催   Connpass自動化ツールモブプログラミング会](https://cs-reading.connpass.com) 定期参加  
-* [四谷ラボ   2023/8/4   Nostr勉強会 #3](https://428lab.connpass.com/event/290514/) 司会, LT  
-* [四谷ラボ   2023/9/2   Bluesky勉強会 #2](https://428lab.connpass.com/event/293255/) 主催, 司会, LT  
-* [四谷ラボ   2023/12/8  新時代の分散SNS勉強会](https://428lab.connpass.com/event/300313/) 運営  
-* [ゴリラ.vim 2023/12/13 ゴリラ.vim #29 ~ 年末なんでもLT ~](https://428lab.connpass.com/event/301953/) LT  
-  
+* [隔週開催   C# 読書会 モブプログラミング会](https://cs-reading.connpass.com) 定期参加  
+* [2023/8/4   Nostr勉強会 #3](https://428lab.connpass.com/event/290514/) 司会, LT  
+* [2023/9/2   Bluesky勉強会 #2](https://428lab.connpass.com/event/293255/) 主催, 司会, LT  
+* [2023/12/8  新時代の分散SNS勉強会](https://428lab.connpass.com/event/300313/) 運営  
+* [2023/12/13 ゴリラ.vim #29 年末なんでもLT](https://428lab.connpass.com/event/301953/) LT  
+* [2024/02/10 ゴリラ.vim #30 四谷ラボコラボ](https://gorillavim.connpass.com/event/307622/) 主催, 登壇  
+* [2024/02/21 Bluesky勉強会 #3](https://428lab.connpass.com/event/310260/) LT  
+* [2024/04/13 Bluesky Meetup Tokyo vol.2](https://428lab.connpass.com/event/312335/) 運営  
+* [2024/04/27 C# パフォーマンス勉強会](https://cs-reading.connpass.com/event/309714/) LT  
+* [2024/09/30 nostrasia 2024](https://nostrasia.com) 主催, 登壇  
+
 ## Books📚  
   
 * [Hello Nostr! Yo Bluesky! 分散SNSの最前線](https://techbookfest.org/product/6quLEm85cpd4TMJR17xnVF?productVariantID=kgmgxRsKgbVruvRd2zV1sp) 共著で出版  
-  * "やる夫bot作ってみた", "継続的な勉強会開催には何が必要か語ってみた" の2記事を寄稿  
+  * 2記事を寄稿  
+    * OpenAIのAPIを使ったChatBOT開発  
+    * コミュニティメンバー内の座談会書き起こし  
+* [Hello Nostr, Yo Bluesky 2 最先端分散型SNSの愉快な仲間たち](https://techbookfest.org/product/sug5CVJ3NYi0iFYz6G9ZpT?productVariantID=1qtR8eCkStgjG3tHZ4KbRh) 共著で出版  
+  * Nostrリレーサーバの動作速度検証 を寄稿  
 
 ## SNS📱  
   
 * [Nostr](https://nostter.vercel.app/hakkadaikon@iris.to)  
 * [X(Twitter)](https://twitter.com/hakkadaikon)  
 * [Bluesky](https://bsky.app/profile/hakkadaikon.bsky.social)  
-* [pixiv](https://www.pixiv.net/users/1600322)  
   
 <!--
 **Hakkadaikon/hakkadaikon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
