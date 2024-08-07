@@ -31,7 +31,8 @@ vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022,2022(Previ
 
 ## Speak on Stage👨  
   
-* [隔週開催   C# 読書会 モブプログラミング会](https://cs-reading.connpass.com) 定期参加  
+* [隔週開催   C# 読書会 モブプログラミング会](https://cs-reading.connpass.com) 定期参加/主催  
+* [隔週開催   詳解ビットコイン読書会](https://scrapbox.io/noskai-grokking-bitcoin/%23_詳解ビットコイン読書会_@_のす会) 定期参加/主催  
 * [2023/8/4   Nostr勉強会 #3](https://428lab.connpass.com/event/290514/) 司会, LT  
 * [2023/9/2   Bluesky勉強会 #2](https://428lab.connpass.com/event/293255/) 主催, 司会, LT  
 * [2023/12/8  新時代の分散SNS勉強会](https://428lab.connpass.com/event/300313/) 運営  
