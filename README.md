@@ -40,16 +40,15 @@ vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022,2022(Previ
 * [2024/02/21 Bluesky勉強会 #3](https://428lab.connpass.com/event/310260/) LT  
 * [2024/04/13 Bluesky Meetup Tokyo vol.2](https://428lab.connpass.com/event/312335/) 運営  
 * [2024/04/27 C# パフォーマンス勉強会](https://cs-reading.connpass.com/event/309714/) LT  
-* [2024/09/30 nostrasia 2024](https://nostrasia.com) 主催, 登壇  
+* [2024/09/30 Nostrasia 2024](https://nostrasia.com) 主催, 登壇  
 
 ## Books📚  
   
-* [Hello Nostr! Yo Bluesky! 分散SNSの最前線](https://techbookfest.org/product/6quLEm85cpd4TMJR17xnVF?productVariantID=kgmgxRsKgbVruvRd2zV1sp) 共著で出版  
-  * 2記事を寄稿  
-    * OpenAIのAPIを使ったChatBOT開発  
-    * コミュニティメンバー内の座談会書き起こし  
-* [Hello Nostr, Yo Bluesky 2 最先端分散型SNSの愉快な仲間たち](https://techbookfest.org/product/sug5CVJ3NYi0iFYz6G9ZpT?productVariantID=1qtR8eCkStgjG3tHZ4KbRh) 共著で出版  
-  * Nostrリレーサーバの動作速度検証 を寄稿  
+* [Hello Nostr! Yo Bluesky! 分散SNSの最前線](https://techbookfest.org/product/6quLEm85cpd4TMJR17xnVF?productVariantID=kgmgxRsKgbVruvRd2zV1sp) 寄稿  
+  * OpenAIのAPIを使ったChatBOT開発  
+  * コミュニティメンバー内の座談会書き起こし  
+* [Hello Nostr, Yo Bluesky 2 最先端分散型SNSの愉快な仲間たち](https://techbookfest.org/product/sug5CVJ3NYi0iFYz6G9ZpT?productVariantID=1qtR8eCkStgjG3tHZ4KbRh) 寄稿  
+  * Nostrリレーサーバの動作速度検証  
 
 ## SNS📱  
   
