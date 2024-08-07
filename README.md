@@ -9,7 +9,7 @@ hakkadaikon(発火大根 eng. radish on fire)
 Programmer, Network infrastructure engineer  
   
 ### Langs  
-C, C++, C#, PHP, javascript, python, Go(little bit), vim script(little bit)  
+C, C++, C#, PHP, javascript, python, vim script  
   
 ### Infra🔧  
 Docker, VMWare, KVM, AWS(little bit), on-premiss related knowledge(IPMI, NIC...)  
@@ -18,10 +18,10 @@ Docker, VMWare, KVM, AWS(little bit), on-premiss related knowledge(IPMI, NIC...)
 I like talking about GoF, DDD, Clean Architecture  
   
 ### Editor / IDE📝  
-vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022,2022(Preview)  
-
-## Langs / Stars🌟
-
+vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022,2022  
+  
+## Langs / Stars🌟  
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakkadaikon&hide=html)
 ![hakkadaikon's github stats](https://github-readme-stats.vercel.app/api?username=Hakkadaikon&show_icons=true&count_private=true&line_height=40)  
 
