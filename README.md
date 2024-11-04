@@ -35,11 +35,12 @@ Vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022
 * [2023/9/2   Bluesky勉強会 #2](https://428lab.connpass.com/event/293255/) 運営, 司会, 登壇  
 * [2023/12/8  新時代の分散SNS勉強会](https://428lab.connpass.com/event/300313/) 運営  
 * [2023/12/13 ゴリラ.vim #29 年末なんでもLT](https://428lab.connpass.com/event/301953/) 登壇  
-* [2024/02/10 ゴリラ.vim #30 四谷ラボコラボ](https://gorillavim.connpass.com/event/307622/) 運営, 登壇  
+* [2024/02/10 ゴリラ.vim #30 四谷ラボコラボ](https://gorillavim.connpass.com/event/307622/) 企画, 運営, 登壇  
 * [2024/02/21 Bluesky勉強会 #3](https://428lab.connpass.com/event/310260/) 登壇  
 * [2024/04/13 Bluesky Meetup Tokyo vol.2](https://428lab.connpass.com/event/312335/) 運営  
 * [2024/04/27 C# パフォーマンス勉強会](https://cs-reading.connpass.com/event/309714/) 登壇  
-* [2024/09/30 Nostrasia 2024](https://nostrasia.com) 発起人, 運営, 登壇  
+* [2024/09/23 Nostrasia 2024](https://nostrasia.com) 発起人/イベント取り纏め, 運営, 登壇  
+* [2024/10/11 Bluesky Meetup Tokyo vol.3](https://428lab.connpass.com/event/331611/) 運営  
 * [2024/10/27 東京Emacs勉強会 オクトーバーフェスティバル](https://tokyo-emacs.connpass.com/event/330572/) 登壇  
 * [2024/11/21 PHP勉強会@東京](https://phpstudy.connpass.com/event/335943/) 登壇  
 
