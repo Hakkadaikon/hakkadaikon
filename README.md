@@ -16,7 +16,7 @@ Docker, VMWare, KVM, AWS(EC2, S3), オンプレ関連
 GoF, DDD, クリーンアーキテクチャ, etc...  
   
 ### エディタ / IDE📝  
-vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022 
+Vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022 
   
 ## Langs / Stars🌟  
   
@@ -39,7 +39,9 @@ vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022
 * [2024/02/21 Bluesky勉強会 #3](https://428lab.connpass.com/event/310260/) 登壇  
 * [2024/04/13 Bluesky Meetup Tokyo vol.2](https://428lab.connpass.com/event/312335/) 運営  
 * [2024/04/27 C# パフォーマンス勉強会](https://cs-reading.connpass.com/event/309714/) 登壇  
-* [2024/09/30 Nostrasia 2024](https://nostrasia.com) 運営, 登壇  
+* [2024/09/30 Nostrasia 2024](https://nostrasia.com) 発起人, 運営, 登壇  
+* [2024/10/27 東京Emacs勉強会 オクトーバーフェスティバル](https://tokyo-emacs.connpass.com/event/330572/) 登壇  
+* [2024/11/21 PHP勉強会@東京](https://phpstudy.connpass.com/event/335943/) 登壇  
 
 ## 書籍執筆📚  
   
