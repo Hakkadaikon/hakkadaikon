@@ -7,7 +7,7 @@
 プログラマ / インフラエンジニア  
   
 ### 言語  
-C, C++, C#, PHP, javascript, python, vim script  
+C, C++, C#, PHP, Go, javascript, python, vim script  
   
 ### インフラ🔧  
 Docker, VMWare, KVM, AWS(EC2, S3), オンプレ関連  
