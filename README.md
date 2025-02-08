@@ -1,22 +1,21 @@
-# 自己紹介  
+# Introduce myself  
   
-## 名前  
-発火大根(hakkadaikon)  
-  
-### 職業🔭  
-プログラマ / インフラエンジニア  
-  
-### 言語  
+## Name  
+hakkadaikon (a.k.a. radish on fire🎤)  
+
+![Image](https://github.com/user-attachments/assets/dc465345-d7e0-48bd-b0eb-60228d9ff09a)
+
+## Favorite  
+Joke, Vim, Nostr, Bitcoin, RFC/W3C/WHATWG...  
+
+## Language  
 C, C++, C#, PHP, Go, javascript, python, vim script  
-  
-### インフラ🔧  
-Docker, VMWare, KVM, AWS(EC2, S3), オンプレ関連  
-  
-### アーキテクチャ🏠  
-GoF, DDD, クリーンアーキテクチャ, etc...  
-  
-### エディタ / IDE📝  
-Vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022 
+
+## Infra🔧  
+Docker, VMWare, KVM, AWS(EC2, S3)  
+
+## Editor / IDE📝  
+Vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022  
   
 ## Langs / Stars🌟  
   
@@ -27,7 +26,7 @@ Vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hakkadaikon&theme=onedark)  
 
-## 勉強会👨  
+## Speak on stage👨  
   
 * [隔週開催   C# 読書会 モブプログラミング会](https://cs-reading.connpass.com) 運営, 定期開催  
 * [隔週開催   詳解ビットコイン読書会](https://scrapbox.io/noskai-grokking-bitcoin/%23_詳解ビットコイン読書会_@_のす会) 運営, 定期開催  
@@ -44,8 +43,8 @@ Vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022
 * [2024/10/27 東京Emacs勉強会 オクトーバーフェスティバル](https://tokyo-emacs.connpass.com/event/330572/) 登壇  
 * [2024/11/21 PHP勉強会@東京](https://phpstudy.connpass.com/event/335943/) 登壇  
 
-## 書籍執筆📚  
-  
+## Writing📚  
+
 * [Hello Nostr! Yo Bluesky! 分散SNSの最前線](https://techbookfest.org/product/6quLEm85cpd4TMJR17xnVF?productVariantID=kgmgxRsKgbVruvRd2zV1sp) 寄稿  
   * OpenAIのAPIを使ったChatBOT開発  
   * コミュニティメンバー内の座談会書き起こし  
@@ -53,22 +52,8 @@ Vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022
   * Nostrリレーサーバの動作速度検証  
 
 ## SNS📱  
-  
+
 * [Nostr](https://nostter.vercel.app/hakkadaikon@iris.to)  
 * [X(Twitter)](https://twitter.com/hakkadaikon)  
 * [Bluesky](https://bsky.app/profile/hakkadaikon.bsky.social)  
-  
-<!--
-**Hakkadaikon/hakkadaikon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
