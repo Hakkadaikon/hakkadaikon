@@ -12,6 +12,7 @@ jobs:
     steps:
       - uses: kawamataryo/lapras-card-readme@main
         with:
+          GH_TOKEN: ${{ secrets.LAPRAS_GITHUB_TOKEN }}
           SHARE_ID: "hakkadaikon"
           LANG: "en"
           CARD_WIDTH: "350"
