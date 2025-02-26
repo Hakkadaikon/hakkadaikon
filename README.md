@@ -5,6 +5,8 @@ hakkadaikon (a.k.a. radish on fire🎤)
 
 ![Image](https://github.com/user-attachments/assets/dc465345-d7e0-48bd-b0eb-60228d9ff09a)
 
+<!--START_SECTION:lapras-card--><!--END_SECTION:lapras-card-->
+
 ## Favorite  
 Joke, Vim, Nostr, Bitcoin, RFC/W3C/WHATWG...  
 
