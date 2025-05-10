@@ -14,7 +14,7 @@ Last Updated on 5/10/2025, 12:14:04 AM</p>
 - Joke, Vim, Nostr, Bitcoin, RFC/W3C/WHATWG...  
 
 ## Language  
-- C, C++, C#, PHP, Go, JavaScript, TypeScript, Python, Vim script  
+- C, C++, C#, PHP, Go, Java, JavaScript, TypeScript, Python, Vim script  
 
 ## DB  
 - MySQL, PostgreSQL  
