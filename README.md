@@ -11,16 +11,48 @@ Last Updated on 5/10/2025, 12:14:04 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ## Favorite  
-Joke, Vim, Nostr, Bitcoin, RFC/W3C/WHATWG...  
+- Joke, Vim, Nostr, Bitcoin, RFC/W3C/WHATWG...  
 
 ## Language  
-C, C++, C#, PHP, Go, javascript, python, vim script  
+- C, C++, C#, PHP, Go, JavaScript, TypeScript, Python, Vim script  
+
+## DB  
+- MySQL, PostgreSQL  
+- MongoDB, Redis  
 
 ## Infra🔧  
-Docker, VMWare, KVM, AWS(EC2, S3)  
+### On-premiss  
+- VMWare(vCenter, ESXi), KVM(Kernel-based Virtual Machine)  
+
+### Cloud  
+- AWS  
+  - VPC, ALB, Route53  
+  - EC2, ECS, EKS  
+  - Cloud9, CloudShell  
+  - RDS(Aurora), ElastiCache  
+  - EventBridge, CloudTrail, CloudWatch  
+  - S3, Secrets Manager, ECR, ACM  
+  - CloudFront, Lambda  
+  - Amplify  
+  
+### Container  
+- Docker  
+
+### IaC  
+- Terraform, Terraform Cloud  
+  
+## Management tool  
+- Jira, Asana, Backlog  
+
+## CI⚙  
+- Github Actions  
+- CircleCI  
+- Gitlab CI/CD  
 
 ## Editor / IDE📝  
-Vim, Neovim, VSCode, Visual Studio 2010,2012,2013,2015,2017,2019,2022  
+- Vim, Neovim  
+- VSCode, WindSurf  
+- Visual Studio 2010,2012,2013,2015,2017,2019,2022  
   
 ## Langs / Stars🌟  
   
