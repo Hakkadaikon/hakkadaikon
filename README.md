@@ -79,6 +79,7 @@ Last Updated on 6/10/2025, 12:15:13 AM</p>
 * [2024/10/11 Bluesky Meetup Tokyo vol.3](https://428lab.connpass.com/event/331611/) 運営  
 * [2024/10/27 東京Emacs勉強会 オクトーバーフェスティバル](https://tokyo-emacs.connpass.com/event/330572/) 登壇  
 * [2024/11/21 PHP勉強会@東京](https://phpstudy.connpass.com/event/335943/) 登壇  
+* [2025/05/31 ゴリラ.vim #36 Vim x SNS](https://gorillavim.connpass.com/event/353161/) 企画, 登壇  
 
 ## Writing📚  
 
