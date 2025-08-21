@@ -6,8 +6,8 @@ hakkadaikon (a.k.a. radish on fire🎤)
 ![Image](https://github.com/user-attachments/assets/dc465345-d7e0-48bd-b0eb-60228d9ff09a)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/hakkadaikon" target="_blank" rel="noopener noreferrer"><img alt="hakkadaikon's scores on LAPRAS are as follows: Engineering: 3.75 out of 5.0, Business: 2.85 out of 5.0, Influence: 3.58 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.75&b=2.85&i=3.58&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="350" ></a>  
-Last Updated on 8/20/2025, 12:14:35 AM</p>
+<p ><a href="https://lapras.com/public/hakkadaikon" target="_blank" rel="noopener noreferrer"><img alt="hakkadaikon's scores on LAPRAS are as follows: Engineering: 3.74 out of 5.0, Business: 2.85 out of 5.0, Influence: 3.58 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.74&b=2.85&i=3.58&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="350" ></a>  
+Last Updated on 8/21/2025, 12:13:15 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ## Favorite  
