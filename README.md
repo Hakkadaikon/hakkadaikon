@@ -22,7 +22,15 @@ Last Updated on 3/10/2026, 12:17:51 AM</p>
 
 ## Infra🔧  
 ### On-premiss  
-- VMWare(vCenter, ESXi), KVM(Kernel-based Virtual Machine)  
+- Virtualization:  
+  - VMWare(vCenter, ESXi)  
+  - KVM(Kernel-based Virtual Machine)  
+- Hardware:  
+  - Storage: SATA, NVMe  
+  - Module: SFP, SFP+, SFP28, QSFP+, QSFP28  
+  - NIC: Standard NIC, SmartNIC  
+- Related technology:  
+  - S.M.A.R.T, IPMI, CPU Pinning, SR-IOV, DPDK  
 
 ### Cloud  
 - AWS (See: [AWS services by category](https://docs.aws.amazon.com/ja_jp/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html))
@@ -52,7 +60,6 @@ Last Updated on 3/10/2026, 12:17:51 AM</p>
 ## CI⚙  
 - Github Actions  
 - CircleCI  
-- Gitlab CI/CD  
 
 ## Editor / IDE📝  
 - Vim, Neovim  
