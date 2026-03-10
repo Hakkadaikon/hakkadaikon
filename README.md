@@ -25,21 +25,26 @@ Last Updated on 3/10/2026, 12:17:51 AM</p>
 - VMWare(vCenter, ESXi), KVM(Kernel-based Virtual Machine)  
 
 ### Cloud  
-- AWS  
-  - VPC, ALB, Route53  
-  - EC2, ECS, EKS  
-  - Cloud9, CloudShell  
-  - RDS(Aurora), ElastiCache  
-  - EventBridge, CloudTrail, CloudWatch  
-  - S3, Secrets Manager, ECR, ACM  
-  - CloudFront, Lambda  
-  - Amplify  
+- AWS (See: [AWS services by category](https://docs.aws.amazon.com/ja_jp/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html))
+  - Management: Organization, CloudTrail, CloudWatch  
+  - Frontend: Amplify  
+  - Computing: ECS, Fargate, Lambda  
+  - Network/CDN: VPC, CloudFront, API Gateway, Route53  
+  - Container: ECR, ECS  
+  - Database: RDS, Aurora, ElastiCache, DynamoDB  
+  - Security: WAF, Shield, GuardDuty, ACM, Secrets Manager, IAM Identity Center  
+  - Developper Tool: Cloud9, CloudShell, CodeBuild, 
+  - Storage: S3, EFS  
+  - Analysis: Athena  
+  - Application Integration: EventBridge, SNS, SQS  
+- GCP
+  - CloudRun, Cloud DNS  
   
 ### Container  
 - Docker  
 
 ### IaC  
-- Terraform, Terraform Cloud  
+- Terraform, Terraform Cloud, terraform-aws-modules  
   
 ## Management tool  
 - Jira, Asana, Backlog  
