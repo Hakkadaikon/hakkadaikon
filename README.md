@@ -41,7 +41,7 @@ Last Updated on 3/10/2026, 12:17:51 AM</p>
   - Container: ECR, ECS  
   - Database: RDS, Aurora, ElastiCache, DynamoDB  
   - Security: WAF, Shield, GuardDuty, ACM, Secrets Manager, IAM Identity Center  
-  - Developper Tool: Cloud9, CloudShell, CodeBuild, 
+  - Developper Tool: Cloud9, CloudShell, CodeBuild  
   - Storage: S3, EFS  
   - Analysis: Athena  
   - Application Integration: EventBridge, SNS, SQS  
