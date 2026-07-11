@@ -7,7 +7,7 @@ hakkadaikon (a.k.a. radish on fire🎤)
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/hakkadaikon" target="_blank" rel="noopener noreferrer"><img alt="hakkadaikon's scores on LAPRAS are as follows: Engineering: 3.79 out of 5.0, Business: 2.85 out of 5.0, Influence: 3.62 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.79&b=2.85&i=3.62&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="350" ></a>  
-Last Updated on 7/10/2026, 12:35:32 AM</p>
+Last Updated on 7/11/2026, 12:28:45 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ## Favorite  
