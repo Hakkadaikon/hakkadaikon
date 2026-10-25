@@ -19,10 +19,9 @@ Last Updated on 10/25/2026, 12:22:29 AM</p>
   * HTTP/3・WebTransport・MoQT サーバSDK (C)  
   * QUIC・TLS1.3 を含むプロトコルスタック全体をユーザ空間で自作、外部ライブラリ・libc 非依存  
   * poll から AF_XDP (カーネルバイパス) まで切り替え可能な4種の I/O ドライバ  
-  * CI・夜間 fuzzing・実在の QUIC クライアントとの相互接続検証  
 * [websocket](https://github.com/Hakkadaikon/websocket)  
   * RFC6455 (The WebSocket Protocol) 準拠の WebSocket サーバライブラリ (C)  
-  * Coverity による静的解析、Nix ビルド対応  
+  * Nix ビルド対応  
 * [hymme](https://github.com/Hakkadaikon/hymme)  
   * superpowers を前提とした Claude Code プラグイン (agent skills)  
   * 設計検証 (TLA+)・テスト設計・形式検証 (Lean 4) の3系統と git/レビュー運用のスキル、専用 agents  
@@ -30,8 +29,6 @@ Last Updated on 10/25/2026, 12:22:29 AM</p>
 * [webqa-explorer](https://github.com/Hakkadaikon/webqa-explorer)  
   * 判断モデルが画面を読んで操作を選ぶ、Web サービスの探索的テストエージェント (Rust)  
   * 購入・削除・退会などの危険な操作を判断モデルの外の判定で停止  
-  * 終了条件の状態機械を TLA+ で全状態検査  
-  * カバレッジ 100% ゲート・cargo-mutants による mutation テスト  
 
 ## Language  
 - C, C++, C#, PHP, Go, Java, JavaScript, TypeScript, Python, Vim script  
