@@ -111,6 +111,12 @@ Last Updated on 10/25/2026, 12:22:29 AM</p>
 * [2024/10/27 東京Emacs勉強会 オクトーバーフェスティバル](https://tokyo-emacs.connpass.com/event/330572/) 登壇  
 * [2024/11/21 PHP勉強会@東京](https://phpstudy.connpass.com/event/335943/) 登壇  
 * [2025/05/31 ゴリラ.vim #36 Vim x SNS](https://gorillavim.connpass.com/event/353161/) 企画, 登壇  
+* [2025/06/22 BTC・LNもくもく会 #1](https://lu.ma/0rrie867?locale=ja) 登壇 ([slide](https://speakerdeck.com/hakkadaikon/nostr-x-btc))  
+* [2025/11/26 AIプロトコル勉強会 No.1](https://428lab.connpass.com/event/374766/) 登壇 ([slide](https://speakerdeck.com/hakkadaikon/routstrnituite))  
+* 2025/12/18 社内LT 登壇 ([slide](https://speakerdeck.com/hakkadaikon/zi-zuo-websocket-rfc6455))  
+* [2026/01/26 レジリエントマネジメント/エンジニアリングリーダー合同出版記念イベント](https://rm-el-publish-event.connpass.com/event/379853/) 登壇 ([slide](https://speakerdeck.com/hakkadaikon/just-do-it-de-zou-riba-ketekitakedo-tiyotutoli-tizhi-matutemita))  
+* 2026/08/27 社内LT 登壇 ([slide](https://speakerdeck.com/hakkadaikon/moqt-jissou))  
+* [2026/09/02 TechBull mini LT&交流会！#4](https://techbull.connpass.com/event/401339/) 登壇 (プロトコルスタック自作の知識が、インフラにも役に立った話)  
 
 ## Writing📚  
 
