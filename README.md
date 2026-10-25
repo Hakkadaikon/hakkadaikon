@@ -13,7 +13,7 @@ Last Updated on 10/25/2026, 12:22:29 AM</p>
 ## Favorite  
 - Joke, Vim, Nostr, Bitcoin, RFC/W3C/WHATWG...  
 
-## Works🛠  
+## OSS🛠  
 
 * [wired](https://github.com/Hakkadaikon/wired)  
   * HTTP/3・WebTransport・MoQT サーバSDK (C)  
@@ -23,12 +23,10 @@ Last Updated on 10/25/2026, 12:22:29 AM</p>
 * [websocket](https://github.com/Hakkadaikon/websocket)  
   * RFC6455 (The WebSocket Protocol) 準拠の WebSocket サーバライブラリ (C)  
   * Coverity による静的解析、Nix ビルド対応  
-* [websocket-vibe](https://github.com/Hakkadaikon/websocket-vibe)  
-  * C23 製 RFC6455 プロトコルスタック、libc 非依存 (freestanding) かつ sans-IO 設計  
-  * Lean 4 による数学的性質・プロトコル仕様の形式検証  
-* [sse](https://github.com/Hakkadaikon/sse)  
-  * libc 非依存の Server-Sent Events サーバ (C)  
-  * HTTP/2・HPACK の自作実装、Google Test による162件のテスト  
+* [hymme](https://github.com/Hakkadaikon/hymme)  
+  * superpowers を前提とした Claude Code プラグイン (agent skills)  
+  * 設計検証 (TLA+)・テスト設計・形式検証 (Lean 4) の3系統と git/レビュー運用のスキル、専用 agents  
+  * TLA+/Apalache/Lean のツールチェインを Nix flake で配布  
 * [webqa-explorer](https://github.com/Hakkadaikon/webqa-explorer)  
   * 判断モデルが画面を読んで操作を選ぶ、Web サービスの探索的テストエージェント (Rust)  
   * 購入・削除・退会などの危険な操作を判断モデルの外の判定で停止  
