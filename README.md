@@ -119,7 +119,7 @@ Last Updated on 10/25/2026, 12:22:29 AM</p>
 * 2025/12/18 社内LT 登壇 ([slide](https://speakerdeck.com/hakkadaikon/zi-zuo-websocket-rfc6455))  
 * [2026/01/26 レジリエントマネジメント/エンジニアリングリーダー合同出版記念イベント](https://rm-el-publish-event.connpass.com/event/379853/) 登壇 ([slide](https://speakerdeck.com/hakkadaikon/just-do-it-de-zou-riba-ketekitakedo-tiyotutoli-tizhi-matutemita))  
 * 2026/08/27 社内LT 登壇 ([slide](https://speakerdeck.com/hakkadaikon/moqt-jissou))  
-* [2026/09/02 TechBull mini LT&交流会！#4](https://techbull.connpass.com/event/401339/) 登壇 (プロトコルスタック自作の知識が、インフラにも役に立った話)  
+* [2026/09/02 TechBull mini LT&交流会！#4](https://techbull.connpass.com/event/401339/) 登壇  
 
 ## Writing📚  
 
