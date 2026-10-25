@@ -13,6 +13,25 @@ Last Updated on 10/25/2026, 12:22:29 AM</p>
 ## Favorite  
 - Joke, Vim, Nostr, Bitcoin, RFC/W3C/WHATWG...  
 
+## Works🛠  
+
+* [wired](https://github.com/Hakkadaikon/wired)  
+  * HTTP/3・WebTransport・MoQT サーバSDK (C)  
+  * QUIC・TLS1.3 を含むプロトコルスタック全体をユーザ空間で自作、外部ライブラリ・libc 非依存  
+  * poll から AF_XDP (カーネルバイパス) まで切り替え可能な4種の I/O ドライバ  
+  * CI・夜間 fuzzing・実在の QUIC クライアントとの相互接続検証  
+* [websocket](https://github.com/Hakkadaikon/websocket)  
+  * RFC6455 (The WebSocket Protocol) 準拠の WebSocket サーバライブラリ (C)  
+  * Coverity による静的解析、Nix ビルド対応  
+* [websocket-vibe](https://github.com/Hakkadaikon/websocket-vibe)  
+  * C23 製 RFC6455 プロトコルスタック、libc 非依存 (freestanding) かつ sans-IO 設計  
+  * Lean 4 による数学的性質・プロトコル仕様の形式検証  
+* [sse](https://github.com/Hakkadaikon/sse)  
+  * libc 非依存の Server-Sent Events サーバ (C)  
+  * HTTP/2・HPACK の自作実装、Google Test による162件のテスト  
+* [shootingstr](https://github.com/Hakkadaikon/shootingstr) / [libelay](https://github.com/Hakkadaikon/libelay)  
+  * C 製 Nostr リレーサーバ (libelay は依存ゼロ・単一バイナリを目指して開発中)  
+
 ## Language  
 - C, C++, C#, PHP, Go, Java, JavaScript, TypeScript, Python, Vim script  
 
