@@ -29,8 +29,11 @@ Last Updated on 10/25/2026, 12:22:29 AM</p>
 * [sse](https://github.com/Hakkadaikon/sse)  
   * libc 非依存の Server-Sent Events サーバ (C)  
   * HTTP/2・HPACK の自作実装、Google Test による162件のテスト  
-* [shootingstr](https://github.com/Hakkadaikon/shootingstr) / [libelay](https://github.com/Hakkadaikon/libelay)  
-  * C 製 Nostr リレーサーバ (libelay は依存ゼロ・単一バイナリを目指して開発中)  
+* [webqa-explorer](https://github.com/Hakkadaikon/webqa-explorer)  
+  * 判断モデルが画面を読んで操作を選ぶ、Web サービスの探索的テストエージェント (Rust)  
+  * 購入・削除・退会などの危険な操作を判断モデルの外の判定で停止  
+  * 終了条件の状態機械を TLA+ で全状態検査  
+  * カバレッジ 100% ゲート・cargo-mutants による mutation テスト  
 
 ## Language  
 - C, C++, C#, PHP, Go, Java, JavaScript, TypeScript, Python, Vim script  
