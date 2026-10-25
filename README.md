@@ -96,21 +96,21 @@ Last Updated on 10/25/2026, 12:22:29 AM</p>
 
 ## Speak on stage👨  
   
-* [隔週開催   C# 読書会 モブプログラミング会](https://cs-reading.connpass.com) 運営, 定期開催  
-* [隔週開催   詳解ビットコイン読書会](https://scrapbox.io/noskai-grokking-bitcoin/%23_詳解ビットコイン読書会_@_のす会) 運営, 定期開催  
-* [2023/8/4   Nostr勉強会 #3](https://428lab.connpass.com/event/290514/) 司会, 登壇  
-* [2023/9/2   Bluesky勉強会 #2](https://428lab.connpass.com/event/293255/) 運営, 司会, 登壇  
+* [2022/09〜2024/03 C# 読書会 モブプログラミング会](https://cs-reading.connpass.com) 運営, 隔週開催  
+* [2024/06〜2024/12 詳解ビットコイン読書会](https://scrapbox.io/noskai-grokking-bitcoin/%23_詳解ビットコイン読書会_@_のす会) 運営, 隔週開催  
+* [2023/8/4   Nostr勉強会 #3](https://428lab.connpass.com/event/290514/) 司会, 登壇 ([slide](https://speakerdeck.com/hakkadaikon/yarufu-botzuo-tutemita))  
+* [2023/9/2   Bluesky勉強会 #2](https://428lab.connpass.com/event/293255/) 運営, 司会, 登壇 ([slide](https://speakerdeck.com/hakkadaikon/jian-quan-natou-gao-zhuan-yong-kuraiantowozuo-tutemita-539485a0-aa4e-46bb-8a69-d3289c7ebc5e))  
 * [2023/12/8  新時代の分散SNS勉強会](https://428lab.connpass.com/event/300313/) 運営  
-* [2023/12/13 ゴリラ.vim #29 年末なんでもLT](https://428lab.connpass.com/event/301953/) 登壇  
-* [2024/02/10 ゴリラ.vim #30 四谷ラボコラボ](https://gorillavim.connpass.com/event/307622/) 企画, 運営, 登壇  
-* [2024/02/21 Bluesky勉強会 #3](https://428lab.connpass.com/event/310260/) 登壇  
+* [2023/12/13 ゴリラ.vim #29 年末なんでもLT](https://gorillavim.connpass.com/event/301953/) 登壇 ([slide](https://speakerdeck.com/hakkadaikon/vimwodu-moutositahua))  
+* [2024/02/10 ゴリラ.vim #30 四谷ラボコラボ](https://gorillavim.connpass.com/event/307622/) 企画, 運営, 登壇 ([slide](https://speakerdeck.com/hakkadaikon/gorira-dot-vim-number-30-raibukoteingu))  
+* [2024/02/21 Bluesky勉強会 #3](https://428lab.connpass.com/event/310260/) 登壇 ([slide](https://speakerdeck.com/hakkadaikon/si-kao-nosu-sadeshi-ukuraianto-vimkuraiantozuo-tutemita))  
 * [2024/04/13 Bluesky Meetup Tokyo vol.2](https://428lab.connpass.com/event/312335/) 運営  
-* [2024/04/27 C# パフォーマンス勉強会](https://cs-reading.connpass.com/event/309714/) 登壇  
-* [2024/09/23 Nostrasia 2024](https://nostrasia.com) 発起人/イベント取り纏め, 運営, 登壇  
+* [2024/04/27 C# パフォーマンス勉強会](https://cs-reading.connpass.com/event/309714/) 登壇 ([slide](https://speakerdeck.com/hakkadaikon/nostr-x-c-number))  
+* [2024/09/23 Nostrasia 2024](https://428lab.connpass.com/event/326207/) 発起人/イベント取り纏め, 運営, 登壇 ([slide](https://speakerdeck.com/hakkadaikon/my-introduction-to-nostr), [video](https://www.youtube.com/live/i-oHjdYWo1E))  
 * [2024/10/11 Bluesky Meetup Tokyo vol.3](https://428lab.connpass.com/event/331611/) 運営  
-* [2024/10/27 東京Emacs勉強会 オクトーバーフェスティバル](https://tokyo-emacs.connpass.com/event/330572/) 登壇  
-* [2024/11/21 PHP勉強会@東京](https://phpstudy.connpass.com/event/335943/) 登壇  
-* [2025/05/31 ゴリラ.vim #36 Vim x SNS](https://gorillavim.connpass.com/event/353161/) 企画, 登壇  
+* [2024/10/27 東京Emacs勉強会 オクトーバーフェスティバル](https://tokyo-emacs.connpass.com/event/330572/) 登壇 ([slide](https://speakerdeck.com/hakkadaikon/emacs-x-nostr))  
+* [2024/11/21 PHP勉強会@東京](https://phpstudy.connpass.com/event/335943/) 登壇 ([slide](https://speakerdeck.com/hakkadaikon/php-x-nostr))  
+* [2025/05/31 ゴリラ.vim #36 Vim x SNS](https://gorillavim.connpass.com/event/353161/) 企画, 登壇 ([slide](https://speakerdeck.com/hakkadaikon/blueskynopuraguinwozuo-tutemita))  
 * [2025/06/22 BTC・LNもくもく会 #1](https://lu.ma/0rrie867?locale=ja) 登壇 ([slide](https://speakerdeck.com/hakkadaikon/nostr-x-btc))  
 * [2025/11/26 AIプロトコル勉強会 No.1](https://428lab.connpass.com/event/374766/) 登壇 ([slide](https://speakerdeck.com/hakkadaikon/routstrnituite))  
 * 2025/12/18 社内LT 登壇 ([slide](https://speakerdeck.com/hakkadaikon/zi-zuo-websocket-rfc6455))  
